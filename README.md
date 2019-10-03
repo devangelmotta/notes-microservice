@@ -31,7 +31,7 @@ An example of API with containerized microservice
 #### Clone the repo:
 
 ```bash
-git clone --depth 1 https://github.com/devangelmotta/save-notes-microservice-example <ANY_FRIENDLIER_NAME>
+git clone --depth 1 https://github.com/devangelmotta/notes-microservice.git <ANY_FRIENDLIER_NAME>
 cd <ANY_FRIENDLIER_NAME>
 ```
 
